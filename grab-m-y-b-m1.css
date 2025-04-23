@@ -1,0 +1,321 @@
+.screen1-item {
+  width: 185.5px;
+  height: 26.31%;
+  position: absolute;
+  margin: 0 !important;
+  top: 60.63%;
+  bottom: 13.06%;
+  left: calc(50% - 120px);
+  max-height: 100%;
+  z-index: 0;
+}
+.tukar-duit-syiling1 {
+  margin: 0;
+  height: 160px;
+  width: 358px;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.01em;
+  line-height: 40px;
+  font-weight: 800;
+  font-family: inherit;
+  display: inline-block;
+}
+.screen1-title11 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  z-index: 1;
+}
+.inilah-yang-berlaku1 {
+  margin: 0;
+}
+.inilah-yang-berlaku-container1 {
+  margin: 0;
+  width: 310px;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.02em;
+  line-height: 29px;
+  font-weight: 800;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.inilah-yang-berlaku-apabila-an-wrapper {
+  align-self: stretch;
+  height: 87px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.setiap-10-atau-container1 {
+  width: 265px;
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 23px;
+  font-weight: 500;
+  display: inline-block;
+}
+.benefit-one {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-icon19 {
+  height: 48.26%;
+  width: 124.3px;
+  position: absolute;
+  margin: 0 !important;
+  top: 38.7%;
+  bottom: 13.04%;
+  left: calc(50% - 56px);
+  max-height: 100%;
+  z-index: 0;
+}
+.ada-2-minit1 {
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 23px;
+  font-weight: 500;
+}
+.benefit-two-time,
+.group-parent1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.benefit-two-time {
+  justify-content: flex-start;
+  z-index: 1;
+}
+.group-parent1 {
+  height: 23px;
+  justify-content: center;
+  padding: 0 var(--padding-3xs) 0 var(--padding-10xs);
+  box-sizing: border-box;
+  position: relative;
+}
+.lihat-fakta-menarik-container1 {
+  flex: 1;
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 21px;
+  font-weight: 500;
+}
+.benefit-two,
+.screen1-description1,
+.screen1-title21 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.benefit-two {
+  width: 179px;
+  height: 88px;
+  align-items: flex-start;
+  gap: var(--gap-11xs);
+}
+.screen1-description1,
+.screen1-title21 {
+  align-self: stretch;
+  height: 278px;
+  align-items: flex-end;
+  gap: var(--gap-79xl);
+  font-size: var(--font-size-mid);
+}
+.screen1-title21 {
+  height: 441px;
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-57xl);
+  z-index: 2;
+  font-size: var(--font-size-6xl);
+}
+.screen1-inner {
+  width: 450px;
+  height: 29.19%;
+  margin: 0 !important;
+  position: absolute;
+  top: 22.65%;
+  bottom: 48.16%;
+  left: calc(50% - 225px);
+  max-height: 100%;
+  z-index: 3;
+}
+.screen11 {
+  align-self: stretch;
+  height: 997.8px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-27xl) var(--padding-27xl) var(--padding-21xl);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-294xl);
+  background-image: url(./public/screen1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: var(--font-size-16xl);
+  color: var(--color-darkslategray);
+  font-family: var(--font-inter);
+}
+.lines-icon {
+  width: 347.3px;
+  height: 77.54%;
+  position: absolute;
+  margin: 0 !important;
+  top: 18.66%;
+  bottom: 3.8%;
+  left: calc(50% - 168px);
+  max-height: 100%;
+  z-index: 0;
+}
+.orangutan-berkongsi-971,
+.tahukah-anda2 {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 23px;
+}
+.orangutan-berkongsi-971 {
+  margin: 0;
+  height: 120px;
+  font-size: var(--font-size-16xl);
+  letter-spacing: 0.01em;
+  line-height: 40px;
+  font-weight: 800;
+  font-family: inherit;
+  color: var(--color-darkslategray);
+  display: inline-block;
+}
+.screen2-title1 {
+  align-self: stretch;
+  height: 145px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xs);
+  z-index: 1;
+  color: var(--color-forestgreen);
+}
+.mereka-ibarat-keluarga1 {
+  margin: 0;
+  font-weight: 500;
+}
+.membantu-memelihara1 {
+  font-weight: 500;
+}
+.hutan-hujan1 {
+  font-weight: 800;
+  font-family: var(--font-inter);
+}
+.mereka-ibarat-keluarga-container1 {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 22px;
+}
+.screen2-description1 {
+  align-self: stretch;
+  height: 666px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-361xl);
+  z-index: 2;
+}
+.group-icon20 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.menyerap-dan-menyimpan1 {
+  margin: 0;
+  font-weight: 800;
+}
+.hutan-hujan-ini-container1 {
+  position: absolute;
+  width: 75.22%;
+  top: 65.03%;
+  left: 10.65%;
+  line-height: 14px;
+  display: inline-block;
+  transform: rotate(6deg);
+  transform-origin: 0 0;
+}
+.image {
+  width: 51.2%;
+  height: 24.27%;
+  position: absolute;
+  margin: 0 !important;
+  top: 42.78%;
+  right: 25.78%;
+  bottom: 32.95%;
+  left: 23.02%;
+  z-index: 3;
+  font-size: var(--font-size-2xs);
+}
+.grab-my-bm1,
+.screen21 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.screen21 {
+  align-self: stretch;
+  height: 1082.6px;
+  overflow: hidden;
+  flex-shrink: 0;
+  padding: var(--padding-41xl) var(--padding-27xl);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-32xl);
+  background-image: url(./public/screen2@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: var(--font-size-mid);
+  color: var(--color-darkslategray);
+  font-family: var(--font-inter);
+}
+.grab-my-bm1 {
+  width: 450px;
+  max-width: 100%;
+  min-width: 450px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 358px) {
+  .screen1-description1 {
+    gap: var(--gap-30xl);
+  }
+  .screen1-title21 {
+    gap: var(--gap-19xl);
+  }
+  .screen2-description1 {
+    gap: var(--gap-171xl);
+  }
+}
